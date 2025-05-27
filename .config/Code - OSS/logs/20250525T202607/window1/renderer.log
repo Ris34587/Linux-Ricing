@@ -1,0 +1,7 @@
+2025-05-25 20:26:08.584 [info] Started local extension host with pid 32233.
+2025-05-25 20:26:09.018 [info] ComputeTargetPlatform: linux-x64
+2025-05-25 20:26:11.736 [info] [perf] Render performance baseline is 32ms
+2025-05-25 20:26:13.240 [info] Auto updating outdated extensions. rust-lang.rust-analyzer
+2025-05-25 20:26:19.315 [error] Signature verification was not executed.: SignatureVerificationInternal: Signature verification was not executed.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:63971)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)

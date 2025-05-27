@@ -1,0 +1,14 @@
+.body{
+    margin: 0 0;
+}
+
+.bar{
+    background-color:rgb(203, 203, 132);
+}
+.bar ul{
+}
+.bar ul li{
+    
+    display: inline;
+    padding: 15px;
+}

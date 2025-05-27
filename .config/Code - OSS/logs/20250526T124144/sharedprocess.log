@@ -1,0 +1,10 @@
+2025-05-26 12:41:48.439 [info] ComputeTargetPlatform: linux-x64
+2025-05-26 12:41:50.433 [info] ComputeTargetPlatform: linux-x64
+2025-05-26 12:41:54.377 [info] Getting Manifest... rust-lang.rust-analyzer
+2025-05-26 12:41:55.249 [info] Installing extension: rust-lang.rust-analyzer {"productVersion":{"version":"1.100.0","date":"2025-05-08T19:22:17.785Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ris3/.vscode-oss/extensions/extensions.json","path":"/home/ris3/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-05-26 12:42:00.112 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2025-05-26 12:42:00.112 [info] Extension signature verification is not done: rust-lang.rust-analyzer
+2025-05-26 12:42:00.126 [error] Error while installing the extension rust-lang.rust-analyzer Signature verification was not executed. vscode-userdata:/home/ris3/.vscode-oss/extensions/extensions.json
+2025-05-26 12:42:00.127 [error] [uncaught exception in sharedProcess]: Signature verification was not executed.: SignatureVerificationInternal: Signature verification was not executed.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:63971)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)

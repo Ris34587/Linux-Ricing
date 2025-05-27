@@ -1,0 +1,1 @@
+2025-05-16 18:52:22.900 [error] Failed to set sticky bit on /tmp/ris3-code-oss-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/ris3-code-oss-zsh'

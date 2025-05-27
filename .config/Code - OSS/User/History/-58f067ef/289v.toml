@@ -1,0 +1,17 @@
+[package]
+name = "physics_simulator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Fisica 3D
+rapier3d = "0.17"  # Fisica real-time (alternativa: physx-rs per PhysX)
+nalgebra = "0.30"  # Algebra lineare
+
+# Rendering (esempio con wgpu per Vulkan/WebGPU)
+wgpu = "0.17"
+winit = "0.29"     # Gestione finestra/input
+
+# Debug e utilità
+log = "0.4"
+env_logger = "0.10"

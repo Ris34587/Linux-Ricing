@@ -1,0 +1,11 @@
+.bar{
+    background-color:rgb(203, 203, 132);
+    margin: 0;
+}
+.bar ul{
+    margin-right: 20px;
+}
+.bar ul li{
+    display: inline;
+    padding: 15px;
+}

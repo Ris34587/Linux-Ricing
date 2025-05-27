@@ -1,0 +1,14 @@
+* {
+    font-family: "Fira Sans", "Font Awesome 6 Free";
+    font-size: 13px;
+}
+
+#window, #workspaces, #tray {
+    margin: 0 10px;
+}
+
+#taskbar {
+    background-color: rgba(40, 40, 40, 0.9);
+    border-radius: 12px;
+    padding: 0 10px;
+}

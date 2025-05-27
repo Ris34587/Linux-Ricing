@@ -1,0 +1,28 @@
+2025-05-15 19:18:12.220 [info] Started local extension host with pid 2859.
+2025-05-15 19:18:12.280 [info] ComputeTargetPlatform: linux-x64
+2025-05-15 19:18:15.479 [info] [perf] Render performance baseline is 27ms
+2025-05-15 19:21:56.347 [error] Language client is not ready yet: Error: Language client is not ready yet
+	at LanguageClient.sendRequest (/home/ris3/.vscode-oss/extensions/rust-lang.rust-0.7.8-universal/node_modules/vscode-languageclient/lib/client.js:1789:19)
+	at /home/ris3/.vscode-oss/extensions/rust-lang.rust-0.7.8-universal/out/src/providers/signatureHelpProvider.js:35:16
+	at new Promise (<anonymous>)
+	at SignatureHelpProvider.provideHover (/home/ris3/.vscode-oss/extensions/rust-lang.rust-0.7.8-universal/out/src/providers/signatureHelpProvider.js:34:16)
+	at SignatureHelpProvider.provideSignatureHelp (/home/ris3/.vscode-oss/extensions/rust-lang.rust-0.7.8-universal/out/src/providers/signatureHelpProvider.js:15:25)
+	at p4.provideSignatureHelp (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:145:147895)
+	at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:145:166383
+	at Zt.s (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:145:155541)
+	at Zt.$provideSignatureHelp (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:145:166371)
+	at f5.S (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:116111)
+	at f5.Q (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:115891)
+	at f5.M (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:114942)
+	at f5.L (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:114085)
+	at ed.value (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:112882)
+	at P.B (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at P.fire (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at lo.fire (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at ed.value (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:225:3917)
+	at P.B (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at P.fire (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at lo.fire (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at MessagePortMain.<anonymous> (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:225:2209)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)

@@ -1,0 +1,82 @@
+2025-05-25 17:02:13.544 [info] Latency measurements for local backend
+window<->ptyhost (message port): 0.70ms
+window<->ptyhostservice<->ptyhost: 6.30ms
+ptyhostservice<->ptyhost: 0.99ms []
+2025-05-25 17:07:39.728 [info] Latency measurements for local backend
+window<->ptyhost (message port): 0.60ms
+window<->ptyhostservice<->ptyhost: 1.30ms
+ptyhostservice<->ptyhost: 0.57ms []
+2025-05-25 17:08:15.134 [info] Latency measurements for local backend
+window<->ptyhost (message port): 0.40ms
+window<->ptyhostservice<->ptyhost: 0.90ms
+ptyhostservice<->ptyhost: 0.34ms []
+2025-05-25 17:09:04.967 [info] Latency measurements for local backend
+window<->ptyhost (message port): 0.50ms
+window<->ptyhostservice<->ptyhost: 1.00ms
+ptyhostservice<->ptyhost: 0.48ms []
+2025-05-25 17:10:41.106 [info] Latency measurements for local backend
+window<->ptyhost (message port): 0.60ms
+window<->ptyhostservice<->ptyhost: 1.00ms
+ptyhostservice<->ptyhost: 0.39ms []
+2025-05-25 17:12:10.796 [info] Latency measurements for local backend
+window<->ptyhost (message port): 0.80ms
+window<->ptyhostservice<->ptyhost: 1.40ms
+ptyhostservice<->ptyhost: 0.55ms []
+2025-05-25 17:19:51.066 [info] Latency measurements for local backend
+window<->ptyhost (message port): 0.50ms
+window<->ptyhostservice<->ptyhost: 1.00ms
+ptyhostservice<->ptyhost: 0.37ms []
+2025-05-25 17:20:05.261 [error] Exception occurred during xterm disposal [{}]
+2025-05-25 17:28:55.614 [info] Latency measurements for local backend
+window<->ptyhost (message port): 0.50ms
+window<->ptyhostservice<->ptyhost: 0.90ms
+ptyhostservice<->ptyhost: 0.36ms []
+2025-05-25 17:39:32.423 [info] Latency measurements for local backend
+window<->ptyhost (message port): 0.50ms
+window<->ptyhostservice<->ptyhost: 1.00ms
+ptyhostservice<->ptyhost: 0.40ms []
+2025-05-25 17:39:35.300 [info] Latency measurements for local backend
+window<->ptyhost (message port): 0.40ms
+window<->ptyhostservice<->ptyhost: 0.90ms
+ptyhostservice<->ptyhost: 0.39ms []
+2025-05-25 18:12:53.256 [info] Latency measurements for local backend
+window<->ptyhost (message port): 1.10ms
+window<->ptyhostservice<->ptyhost: 1.20ms
+ptyhostservice<->ptyhost: 0.46ms []
+2025-05-25 19:29:29.324 [error] Exception occurred during xterm disposal [{}]
+2025-05-25 19:30:03.604 [info] Latency measurements for local backend
+window<->ptyhost (message port): 0.50ms
+window<->ptyhostservice<->ptyhost: 1.20ms
+ptyhostservice<->ptyhost: 0.55ms []
+2025-05-25 19:42:00.009 [info] Latency measurements for local backend
+window<->ptyhost (message port): 0.40ms
+window<->ptyhostservice<->ptyhost: 1.10ms
+ptyhostservice<->ptyhost: 0.46ms []
+2025-05-25 19:42:16.400 [info] Latency measurements for local backend
+window<->ptyhost (message port): 0.40ms
+window<->ptyhostservice<->ptyhost: 1.10ms
+ptyhostservice<->ptyhost: 0.48ms []
+2025-05-25 19:43:50.756 [info] Latency measurements for local backend
+window<->ptyhost (message port): 0.50ms
+window<->ptyhostservice<->ptyhost: 1.30ms
+ptyhostservice<->ptyhost: 0.55ms []
+2025-05-25 19:44:01.676 [info] Latency measurements for local backend
+window<->ptyhost (message port): 0.60ms
+window<->ptyhostservice<->ptyhost: 1.00ms
+ptyhostservice<->ptyhost: 0.41ms []
+2025-05-25 20:08:33.467 [info] Latency measurements for local backend
+window<->ptyhost (message port): 2.80ms
+window<->ptyhostservice<->ptyhost: 7.20ms
+ptyhostservice<->ptyhost: 0.39ms []
+2025-05-25 20:11:43.225 [info] Latency measurements for local backend
+window<->ptyhost (message port): 0.40ms
+window<->ptyhostservice<->ptyhost: 1.40ms
+ptyhostservice<->ptyhost: 0.58ms []
+2025-05-25 20:18:31.236 [info] Latency measurements for local backend
+window<->ptyhost (message port): 0.70ms
+window<->ptyhostservice<->ptyhost: 1.10ms
+ptyhostservice<->ptyhost: 0.46ms []
+2025-05-25 20:18:57.094 [info] Latency measurements for local backend
+window<->ptyhost (message port): 0.70ms
+window<->ptyhostservice<->ptyhost: 1.90ms
+ptyhostservice<->ptyhost: 0.88ms []

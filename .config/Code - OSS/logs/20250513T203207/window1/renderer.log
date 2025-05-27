@@ -1,0 +1,12 @@
+2025-05-13 20:32:08.881 [info] Started local extension host with pid 2809.
+2025-05-13 20:32:08.887 [info] ComputeTargetPlatform: linux-x64
+2025-05-13 20:32:08.969 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-05-13 20:32:11.768 [info] [perf] Render performance baseline is 180ms
+2025-05-13 20:33:38.319 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at Jd.getLineLength (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:266:4354)
+    at pne.reportIfInvalid (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:485:13488)
+    at $Le.reportIfInvalid (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:485:10836)
+    at mki.set (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:263:6852)
+    at dae.setSemanticTokens (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:263:11190)
+    at TFe.u (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:485:26529)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:485:24992

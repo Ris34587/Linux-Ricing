@@ -1,0 +1,9 @@
+[terminal]
+shell={program = "/bin/zsh"}
+
+
+[window]
+opacity = 0.9
+decorations = "Full"
+dynamic_title = true
+

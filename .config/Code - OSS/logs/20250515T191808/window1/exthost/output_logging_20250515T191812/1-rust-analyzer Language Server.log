@@ -1,0 +1,2 @@
+2025-05-15T19:28:32.471267643Z ERROR Position LineCol { line: 8, col: 11 } column exceeds line length 10, clamping it
+2025-05-15T19:28:34.000719265Z ERROR Position LineCol { line: 8, col: 11 } column exceeds line length 10, clamping it

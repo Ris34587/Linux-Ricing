@@ -1,0 +1,120 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "932cd061342502268280425085d6aaaec0113ff1ff23a2c3daff7a4eabafcbcc",
+    "telemetry.devDeviceId": "a5c5e608-75ba-4c36-9094-f6f586589ea9",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/ris3/mio_gioco_bevy"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1748279125647"
+            },
+            {
+                "backupFolder": "1748279131660"
+            },
+            {
+                "backupFolder": "1748279144350"
+            },
+            {
+                "backupFolder": "1748279185057"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/ris3/Project1": "__default__profile__",
+            "file:///home/ris3/server": "__default__profile__",
+            "file:///home/ris3/mio-progetto": "__default__profile__",
+            "file:///home/ris3/gioco_macroquad": "__default__profile__",
+            "file:///home/ris3/mio_gioco_bevy": "__default__profile__",
+            "file:///home/ris3/physics_simulator": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1748279131660": "__default__profile__",
+            "1748279144350": "__default__profile__",
+            "1748279185057": "__default__profile__"
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/ris3/mio_gioco_bevy",
+            "backupPath": "/home/ris3/.config/Code - OSS/Backups/f7b81df7aa5cf2ea05b649b3f176d724",
+            "uiState": {
+                "mode": 1,
+                "x": 1031,
+                "y": 31,
+                "width": 1906,
+                "height": 1007,
+                "zoomLevel": 2
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1e1e1e",
+            "editorBackground": "#1e1e1e",
+            "titleBarBackground": "#3c3c3c",
+            "activityBarBackground": "#333333",
+            "sideBarBackground": "#252526",
+            "statusBarBackground": "#007acc",
+            "statusBarNoFolderBackground": "#68217a"
+        },
+        "layoutInfo": {
+            "sideBarSide": "right",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "d01ad6144c366a3ce29e770a79f65203": {
+                    "sideBarVisible": false,
+                    "auxiliaryBarVisible": false
+                },
+                "6252dc6282f6291a697e5c59c3d19871": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "da895a4a424642567222f8c8b53dac08": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "5d6c0147f00005e432fab24fa0acc143": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "cf65a999f680f448d7d672b299d80196": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "06c09ba257f63a7f3505e96c36ba179d": {
+                    "sideBarVisible": false,
+                    "auxiliaryBarVisible": false
+                },
+                "b8afe000dcbd8c0df6227fdcc76e9151": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}
